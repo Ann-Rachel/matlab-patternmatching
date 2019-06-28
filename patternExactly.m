@@ -1,5 +1,5 @@
-%A ist das große Array, B ist das kleine Array
-%geht nur für Binärbilder
+%A is bigger than B
+%A an B are binary matrices
 function match = patternExactly(A, B)
 match = 0;
 for i = 1 : size(A,1)-size(B,1)

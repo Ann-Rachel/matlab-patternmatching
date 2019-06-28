@@ -1,7 +1,7 @@
 # matlab-patternmatching
-matlab code for pattern matching of 2 matrices
+matlab code for pattern matching of 2 matrices (only binary)
 
-patternmatching only for binary img 
+example: 
 A = [1,0,1,0,1;
      0,1,1,1,1; 
      0,1,0,1,1;] 

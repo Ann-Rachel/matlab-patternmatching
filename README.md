@@ -11,13 +11,19 @@ B = [1,1;
 matching = 1
 
 try patternmatching.m
+
 patternmatching.m calls patternExactly.m 
+
 patternExactly.m calls patternExactlyInRow.m
 
+
 patternExactly.m
+
 patternExactly(A, B)
 
+
 patternExactlyInRow.m
+
 patternExactlyInRow(A(1,:), B(1,:)
 
 

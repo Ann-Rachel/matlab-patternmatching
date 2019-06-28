@@ -27,13 +27,13 @@ patternmatching.m calls patternExactly.m
 patternExactly.m calls patternExactlyInRow.m
 
 
-patternExactly.m
+     patternExactly.m
 
-patternExactly(A, B)
+     patternExactly(A, B)
+------------------------------------------
 
+     patternExactlyInRow.m
 
-patternExactlyInRow.m
-
-patternExactlyInRow(A(1,:), B(1,:)
+     patternExactlyInRow(A(1,:), B(1,:)
 
 

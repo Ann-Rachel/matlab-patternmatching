@@ -1,19 +1,19 @@
 # matlab-patternmatching
 matlab code for pattern matching of 2 matrices (only binary)
 
-example:;
+example:
 
-A = [1,0,1,0,1;
+     A = [1,0,1,0,1;
 
      0,1,1,1,1; 
      
      0,1,0,1,1;]
          
-B = [1,1;
+     B = [1,1;
 
      1,1;]
 
-result = 1
+     result = 1
 
 
 try patternmatching.m

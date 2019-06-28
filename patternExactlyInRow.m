@@ -1,5 +1,5 @@
-%A und B sind Zeilenmatrix
-%B ist Bild, A ist das Muster, output gibt Zeilen index in A aus
+%A and B are 1D arrays
+%B is picture, A is pattern, output rowindices in A
 function output = patternExactlyInRow(B, A)
  SIZE = length(B) - length(A) +1;
  match = zeros(1, SIZE);

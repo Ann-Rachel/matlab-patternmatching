@@ -13,7 +13,8 @@ B = [1,1;
 
      1,1;]
 
-matching = 1
+result = 1
+
 
 try patternmatching.m
 

@@ -1,2 +1,2 @@
-﻿trainmode;agent
-testann;MLP_ARENA2D
+trainmode,agent
+testann,MLP_ARENA2D
